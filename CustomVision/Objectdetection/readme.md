@@ -1,6 +1,6 @@
 ***Hospital PPE Compliance model***
 
-Detects: Masks, gloves, gowns, face shields
+Detects: Medical masks, gloves and hair cover
 
 Purpose: Ensure staff wear proper gear in sterile zones
 
